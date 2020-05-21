@@ -1,0 +1,20 @@
+{
+
+    "connections":
+
+      [
+        {
+          "name": "hdfsConnection",
+          "properties": [
+            {
+              "propkey": "fs.defualt.name",
+              "propvalue": "hdfs://localhost:9000/"
+            }
+          ]
+        }
+      ]
+
+    }
+
+
+

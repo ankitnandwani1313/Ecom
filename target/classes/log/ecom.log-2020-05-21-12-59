@@ -1,0 +1,3 @@
+2020-05-21 12:59:55,973 - INFO - [ MODULE_NAME ] : Starting Execution of Ecom Application
+2020-05-21 12:59:56,104 - INFO - [ CONFIG_VALIDATOR ] : validating config configuration
+2020-05-21 12:59:56,109 - INFO - [ MYSQL_PULL ] : Setting up connection with Mysql server  : jdbc:mysql://localhost:3306/retail_db

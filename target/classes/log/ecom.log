@@ -1,0 +1,6 @@
+2020-05-21 13:05:49,614 - INFO - [ MODULE_NAME ] : Starting Execution of Ecom Application
+2020-05-21 13:05:49,758 - INFO - [ CONFIG_VALIDATOR ] : validating config configuration
+2020-05-21 13:05:49,764 - INFO - [ MYSQL_PULL ] : Setting up connection with Mysql server  : jdbc:mysql://localhost:3306/retail_db
+2020-05-21 13:05:54,244 - INFO - [ KAFKA_PUSH ] : Initializing producer with clientID : ECOM1590046549621
+2020-05-21 13:05:54,515 - INFO - [ KAFKA_PUSH ] : Sending Records to : EcomTopic2
+2020-05-21 13:05:57,951 - INFO - [ KAFKA_PUSH ] : Total Number or Records Sends to Kafka Topic : 172198

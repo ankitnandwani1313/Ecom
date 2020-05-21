@@ -1,0 +1,3 @@
+2020-05-21 13:00:00,807 - INFO - [ KAFKA_PUSH ] : Initializing producer with clientID : ECOM1590046195980
+2020-05-21 13:00:01,152 - INFO - [ KAFKA_PUSH ] : Sending Records to : EcomTopic2
+2020-05-21 13:00:05,004 - INFO - [ KAFKA_PUSH ] : Total Number or Records Sends to Kafka Topic : 172198
